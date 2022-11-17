@@ -135,4 +135,12 @@ sonar.coverage.exclusions=js/index.js, js/\*_/_.test.\*
 #sonar.sourceEncoding=UTF-8
 ```
 
-Github Actions
+### Github Actions
+
+## Dia 1
+
+## Dia 2
+
+## Dia 3
+
+### Typescript
